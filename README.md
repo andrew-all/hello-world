@@ -1,2 +1,6 @@
 # hello-world
-ust another repository
+
+hello!
+
+i just create my the first repository
+and i'm begin coding!
